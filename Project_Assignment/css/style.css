@@ -1,0 +1,122 @@
+.navbar{
+	margin-bottom: 0;
+    border-radius: 0;
+}
+
+/* Remove the jumbotron's default bottom margin */
+.jumbotron{
+	margin-bottom: 0;
+}
+
+.img-fluid{
+    border:0px;
+}
+
+.wishlistbtn {
+    float: right;
+    position: relative;
+}
+
+h3,
+p {
+    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+}
+
+.carousel-inner > .item > a > img {
+  width:1140px;
+  height:400px;
+}
+
+#feature-carousel {
+	min-height: 400px;
+	}
+
+#feature-carousel img {
+	margin: 0 auto;
+	}
+
+.article-intro {
+    margin-bottom: 25px;
+}
+
+/*
+.feature,
+.page-intro,
+.article-intro,
+.footer-blurb,
+.small-print {
+	text-align: center;
+	}
+*/
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+}
+
+.title {
+  color: grey;
+  font-size: 18px;
+}
+
+.cart_btn {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+button:hover, a:hover {
+  opacity: 0.7;
+}
+
+@media screen and (width: 600) {
+    .cartbtn {
+
+    }
+}
+
+.panel-heading {
+    padding: 5px 15px;
+    text-align: center;
+}
+
+.panel-footer {
+	padding: 1px 15px;
+	color: #A0A0A0;
+    text-align: center;
+}
+
+.profile-img {
+	width: 96px;
+	height: 96px;
+	margin: 0 auto 10px;
+	display: block;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+}
+
+.filter_checkbox{
+    margin-left: 30px;
+}
+
+.focus {
+    color: #6d0fe7;
+    
+    cursor: pointer;
+    text-decoration: underline;
+    font-weight: bold;
+  }
+  #pages, .pageNumber {
+padding: 2px;
+  }

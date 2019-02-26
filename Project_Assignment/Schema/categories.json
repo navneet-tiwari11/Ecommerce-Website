@@ -1,0 +1,31 @@
+{
+  "categories": [
+      {
+          "name":"Electronics",
+          "sub_categories": [
+              {
+                  "name": "Laptop"
+              },
+              {
+                  "name": "Mobile"
+              }
+          ]
+      },
+      {
+          "name": "Shoes",
+          "sub_categories": []
+      },
+      {
+          "name": "Books",
+          "sub_categories": []
+      },
+      {
+          "name": "Watches",
+          "sub_categories": []
+      },
+      {
+          "name": "Clothing",
+          "sub_categories": []
+      }
+  ]
+}
